@@ -65,7 +65,7 @@
 									</div>
 		            </div>
 		          </form>
-		          <p class="text-center">Not a member? <a data-toggle="tab" href="regis.php">Sign Up</a></p>
+		          <p class="text-center">Not a member? <a  href="regis.php">Sign Up</a></p>
 		        </div>
 		      </div>
 				</div>

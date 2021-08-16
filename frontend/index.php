@@ -93,7 +93,7 @@
 				   				<div class="slider-text">
 					   				<div class="slider-text-inner">
 									   <h1>Check &amp; Booking</h1>
-											<h2>สมัครสมาชิก &amp; จองคิวเข้าใช้บริการ<a href="http://freehtml5.co/" </a></h2>
+											<h2>สมัครสมาชิก &amp; จองคิวเข้าใช้บริการ<a href="http://freehtml5.co/" ></a></h2>
 											<p><a class="btn btn-primary btn-learn " href="regis.php"> <i class="icon-play4"></i> สมัครสมาชิก</a> <a class="btn btn-primary btn-learn" href="login.php">เข้าสู่ระบบ <i class="icon-arrow-right3"></i></a></p>
 					   				</div>
 					   			</div>
@@ -109,7 +109,7 @@
 				   				<div class="slider-text">
 					   				<div class="slider-text-inner text-center">
 									   <h1>Check &amp; Booking</h1>
-											<h2>สมัครสมาชิก &amp; จองคิวเข้าใช้บริการ<a href="http://freehtml5.co/" </a></h2>
+											<h2>สมัครสมาชิก &amp; จองคิวเข้าใช้บริการ<a href="http://freehtml5.co/" ></a></h2>
 											<p><a class="btn btn-primary btn-learn " href="regis.php"> <i class="icon-play4"></i> สมัครสมาชิก</a> <a class="btn btn-primary btn-learn" href="login.php">เข้าสู่ระบบ <i class="icon-arrow-right3"></i></a></p>
 					   				</div>
 					   			</div>
